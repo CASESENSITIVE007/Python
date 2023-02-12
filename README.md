@@ -1,2 +1,12 @@
 # Python
 Codes
+black_jack
+blind_auction
+caesarcipher
+calculator
+coffee_machine
+Hangman
+high_or_low
+highvslow
+password_generator
+stone_paper_scissors
